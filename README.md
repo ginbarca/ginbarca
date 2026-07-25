@@ -27,7 +27,9 @@
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ginbarca&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginbarca&theme=default&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false&bg_color=202329&text_color=fff" alt="GitHub top-langs Card" />
+  <!-- ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=ginbarca&theme=shadow)
+  ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Software%20Engineerr&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117) -->
+  <img width="48%" src="https://readme-stats-github.pages.dev/api/top-langs?username=ginbarca&theme=shadow" alt="GitHub top-langs Card" />
+  <!-- <img width="48%" src="https://readme-stats-github.pages.dev/api/typing?lines=Software%20Engineerr&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%230d1117" alt="Title" /> -->
 </p>
 
