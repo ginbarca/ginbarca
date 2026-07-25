@@ -17,7 +17,7 @@
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [nva1308@gmail.com](mailto:nva1308@gmail.com)
-* 🚀  I'm currently working on [NHSV](http://nhsv,vn)
+* 🚀  I'm currently working on [Techcombank](https://techcombank.com/)
 * 🧠  I'm learning DevOps
 
  **<h3 align="left">Skills</h3>**
